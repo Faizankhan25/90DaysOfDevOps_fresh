@@ -37,4 +37,23 @@
 ![3 5](https://user-images.githubusercontent.com/76457594/210311435-e6f8aa0c-dc0c-44a6-84e7-6e4c91e4ea87.png)
 
 
+ 6. Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+     - ``` vim devops.tex - than enter the one by one enter ```
+
+ 7. To Show only top three fruits from the file.
+     - ``` head -n3 filename ```
  
+ 8. To Show only bottom three fruits from the file.
+     - ``` tail -n3 filename ```
+   
+ 9. To create another file Colors.txt and to view the content.
+     - ``` vim colors.tex ```
+     - ``` cat colors.tex ```
+
+ 10. Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
+     - ``` vim colors.tex - than enter the one by one enter ```
+
+ 11. To find the difference between fruits.txt and Colors.txt file.
+     - ``` diff fruits.txt colors.tex ``` 
+    
+ 12. 
